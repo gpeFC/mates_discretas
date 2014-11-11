@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Aut\'omatas}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Aut\'omata de Estado Finito (Determinista)}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Aut\'omata de Estado Finito no Determinista}{5}{0}{1}
+\beamer@sectionintoc {2}{Referencias}{7}{0}{2}
